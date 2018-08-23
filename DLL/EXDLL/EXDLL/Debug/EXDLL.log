@@ -1,0 +1,5 @@
+﻿  EXDLL.cpp
+c:\users\circler\documents\bob\스터디\dll\exdll\exdll\exdll.cpp(9): warning C4273: 'add': inconsistent dll linkage
+  c:\users\circler\documents\bob\스터디\dll\exdll\exdll\exdll.h(8): note: see previous definition of 'add'
+     Creating library C:\Users\Circler\Documents\BOB\스터디\DLL\EXDLL\Debug\EXDLL.lib and object C:\Users\Circler\Documents\BOB\스터디\DLL\EXDLL\Debug\EXDLL.exp
+  EXDLL.vcxproj -> C:\Users\Circler\Documents\BOB\스터디\DLL\EXDLL\Debug\EXDLL.dll
